@@ -30,7 +30,7 @@ An elegant and minimal Android app built using Kotlin that fetches and displays 
 
 Here’s how the app looks:
 
-![App Screenshot](Screenshot.png)
+<img src="Screenshot.png" alt="App UI" width="300"/>
 
 ---
 

@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun fetchQuote() {
         val request = Request.Builder()
-            .url("https://zenquotes.io/api/random")
+            .url("YOUR_API_KEY")
             .build()
 
         client.newCall(request).enqueue(object : Callback {
