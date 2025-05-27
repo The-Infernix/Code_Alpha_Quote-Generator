@@ -2,7 +2,7 @@
 
 An elegant and minimal Android app built using Kotlin that fetches and displays inspirational quotes from the [ZenQuotes API](https://zenquotes.io/). Users can generate random quotes and share them easily with others.
 
-> 🧑‍💻 Developed as part of an internship at [**Code Alpha**](https://www.codealpha.tech/).
+> 🧑‍💻 Developed as part of an internship at [**Code Alpha**](https://www.codealpha.tech/). 
 
 ---
 
